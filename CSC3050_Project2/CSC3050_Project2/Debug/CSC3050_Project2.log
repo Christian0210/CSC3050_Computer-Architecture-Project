@@ -1,0 +1,11 @@
+﻿  CSC3050_Project2.cpp
+C:\Users\cyche\Desktop\CUHKSZ\CSC3050\Assignment\CSC3050_Project2\CSC3050_Project2\CSC3050_Project2.cpp(65,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\cyche\Desktop\CUHKSZ\CSC3050\Assignment\CSC3050_Project2\CSC3050_Project2\CSC3050_Project2.cpp(84,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\cyche\Desktop\CUHKSZ\CSC3050\Assignment\CSC3050_Project2\CSC3050_Project2\CSC3050_Project2.cpp(118,52): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\cyche\Desktop\CUHKSZ\CSC3050\Assignment\CSC3050_Project2\CSC3050_Project2\CSC3050_Project2.cpp(129,42): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\cyche\Desktop\CUHKSZ\CSC3050\Assignment\CSC3050_Project2\CSC3050_Project2\CSC3050_Project2.cpp(130,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\cyche\Desktop\CUHKSZ\CSC3050\Assignment\CSC3050_Project2\CSC3050_Project2\CSC3050_Project2.cpp(909,30): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\cyche\Desktop\CUHKSZ\CSC3050\Assignment\CSC3050_Project2\CSC3050_Project2\CSC3050_Project2.cpp(937,30): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\cyche\Desktop\CUHKSZ\CSC3050\Assignment\CSC3050_Project2\CSC3050_Project2\CSC3050_Project2.cpp(966,30): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\cyche\Desktop\CUHKSZ\CSC3050\Assignment\CSC3050_Project2\CSC3050_Project2\CSC3050_Project2.cpp(1568,9): warning C4101: “fd”: 未引用的局部变量
+  CSC3050_Project2.vcxproj -> C:\Users\cyche\Desktop\CUHKSZ\CSC3050\Assignment\CSC3050_Project2\Debug\CSC3050_Project2.exe
